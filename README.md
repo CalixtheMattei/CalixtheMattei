@@ -1,7 +1,11 @@
 👋 Hi, I’m @CalixtheMattei
 
  I’m looking to collaborate on Data Science projects in general on topics I enjoy like customer trends, real estate, health data and energy mix. 
+
+ 
  I am also looking for jobs in these fields!
+
+ 
  Proficient in Python, SQL and VB.
 
 
