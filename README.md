@@ -1,6 +1,6 @@
 ## Hi, I’m @CalixtheMattei !
 
- I’m looking to collaborate on Data Science projects in general on topics I enjoy like customer trends, real estate, health data and energy mix. 
+ I’m looking to collaborate on Data Science projects in general on topics I enjoy like digital marketing/customer trends, health data and energy mix. 
 
  
  I am also looking for jobs in these fields!
