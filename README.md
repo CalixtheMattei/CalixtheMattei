@@ -9,6 +9,7 @@ Learning by vibe-coding. Implementing my needs.
 
 - **Overspending Fit Calou** — Personal finance tracker I built and actually use. Custom rules, split allocations, Sankey analytics, Moments for life events, and an MCP server. Check the demo account below :)  
   → Repo:   https://github.com/CalixtheMattei/overspending-fit-calou
+  
   → Demo account:   https://demo.overspending-fit-calou.com/
 
 - **Apple Store 500 Analytics** — Daily workflow to pull customer reviews from apps on the App Store  
