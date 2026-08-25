@@ -15,6 +15,9 @@ Learning by vibe-coding. Implementing my needs.
 - **Apple Store 500 Analytics** — Daily workflow to pull customer reviews from apps on the App Store  
   → Repo: https://github.com/CalixtheMattei/apple-store-500-analytics
 
+- **Medallion BI Starter** — Open-source BI stack template (Dagster + dbt + Metabase, medallion architecture) so any company, big or small, can stand up a reliable data platform without vendor lock-in. Ships with the Claude/Codex agent skills I actually use at work to onboard sources, adapt queries, and spin up dashboards.  
+  → Repo: https://github.com/CalixtheMattei/medallion-bi-starter
+
 > More “builder” repos coming as I open-source parts of what I’m shipping.
 
 ## School / learning projects (notebooks & coursework)
